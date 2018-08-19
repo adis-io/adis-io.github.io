@@ -4,23 +4,21 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Adis Osmonov
+tagline:          'Adis Osmonov'
+description:      'Ruby / Ruby on Rails'
+url:              https://adis.osmonov.com/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Adis Osmonov'
+  url:            https://adis.osmonov.com/
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
+google_analytics: 'UA-124183848-1'
+emailme:          mailto:adis@osmonov.com
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/adis-io/adis-io.github.io/
